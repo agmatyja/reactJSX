@@ -1,0 +1,16 @@
+* {
+	margin: 10px 0;
+	
+}
+
+.contactForm {
+	margin: 20px;
+	padding: 15px;
+	
+}
+.contactItem {
+	margin: 20px 0;
+}
+.contactImage {
+	height: 130px;
+}
